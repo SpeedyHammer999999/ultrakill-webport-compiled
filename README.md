@@ -1,3 +1,4 @@
+Game does not save in-between runs, if you close the tab you lose your progress.
 Link to play:
 
 https://speedyhammer999999.github.io/ultrakill-webport-compiled/
